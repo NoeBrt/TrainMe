@@ -4,3 +4,6 @@
 [submodule "trainme-front"]
 	path = trainme-front
 	url = https://github.com/FannyC13/trainme-front
+[submodule "trainme-back"]
+	path = trainme-back
+	url = https://github.com/Rami-lwz/LLM-project
