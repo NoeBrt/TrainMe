@@ -1,6 +1,8 @@
 # TrainMe!
 *study notes within your reach !*
 
+![ezgif-1-4de13b88d0](https://github.com/user-attachments/assets/47f47965-8f1a-40fb-9b3d-403ac98eeb43)
+
 Train me is a website made to summarize your course and create custom themed MQC of it.
 
 ## Functionnalities 
